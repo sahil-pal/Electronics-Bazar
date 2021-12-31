@@ -21,24 +21,24 @@ Electronics shopping Website
 11. Html, CSS and Javascript
 
 ## Features
-1. Authentication and Authorization 
+1. Authentication and Registeration of user.
 
 2. Homepage :  
-a) Search Bar to search product name or brand
-b) Search filters for rating, price, categories and COD availability
+   a) Search Bar to search product name or brand.
+   b) Search filters for rating, price, categories and COD availability.
   
 3. Cart 
 
 4. Orders :
-a) Search bar to search the order by product name or brand
-b) Search filters for time duration and order status
+a) Search bar to search the order by product name or brand.
+b) Search filters for time duration and order status.
 
 5. Checkout : 
-a) OTP generation for order confimation
-b) RazorPay payment gateway to initiate payment
+a) OTP generation for order confimation.
+b) RazorPay payment gateway to initiate payment.
 
 6. Profile Page :
-a) user info CRUD
+a) user info CRUD.
 
 ## How it looks like 
    

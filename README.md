@@ -1,6 +1,9 @@
 # Electronics-Bazar
 Electronics shopping Website
 
+## Project Link
+https://guarded-savannah-62235.herokuapp.com/
+
 ## How to run the App
 1. Fork or download the project and extract it.
 2. Run the npm init command
@@ -42,12 +45,12 @@ a) user info CRUD.
 
 ## How it looks like 
    
-<img width="1440" alt="Screenshot 2021-12-31 at 10 58 04 PM" src="https://user-images.githubusercontent.com/69889824/147834326-b0def2d2-f437-4fa6-bbb8-94b2f52c4732.png">
-<img width="1440" alt="Screenshot 2021-12-31 at 10 58 12 PM" src="https://user-images.githubusercontent.com/69889824/147834383-f63146cf-08f6-4187-9a46-0e191a2d6812.png">
-<img width="1440" alt="Screenshot 2021-12-31 at 10 58 33 PM" src="https://user-images.githubusercontent.com/69889824/147834385-404094e9-aa44-4042-b14a-fc1d2217dc97.png">
-<img width="1440" alt="Screenshot 2021-12-31 at 10 58 43 PM" src="https://user-images.githubusercontent.com/69889824/147834387-4a7765d7-de35-47df-92fc-68ea5fc9c58b.png">
-<img width="1440" alt="Screenshot 2021-12-31 at 10 59 10 PM" src="https://user-images.githubusercontent.com/69889824/147834389-e4d1798f-9320-40ee-916a-fb1005215680.png">
-<img width="1440" alt="Screenshot 2021-12-31 at 11 10 44 PM" src="https://user-images.githubusercontent.com/69889824/147834329-3de70c91-20c8-4978-b460-0e7cdaf9a16d.png">
+<img width="750" alt="Screenshot 2021-12-31 at 10 58 04 PM" src="https://user-images.githubusercontent.com/69889824/147834326-b0def2d2-f437-4fa6-bbb8-94b2f52c4732.png">
+<img width="750" alt="Screenshot 2021-12-31 at 10 58 12 PM" src="https://user-images.githubusercontent.com/69889824/147834383-f63146cf-08f6-4187-9a46-0e191a2d6812.png">
+<img width="750" alt="Screenshot 2021-12-31 at 10 58 33 PM" src="https://user-images.githubusercontent.com/69889824/147834385-404094e9-aa44-4042-b14a-fc1d2217dc97.png">
+<img width="750" alt="Screenshot 2021-12-31 at 10 58 43 PM" src="https://user-images.githubusercontent.com/69889824/147834387-4a7765d7-de35-47df-92fc-68ea5fc9c58b.png">
+<img width="750" alt="Screenshot 2021-12-31 at 10 59 10 PM" src="https://user-images.githubusercontent.com/69889824/147834389-e4d1798f-9320-40ee-916a-fb1005215680.png">
+<img width="750" alt="Screenshot 2021-12-31 at 11 10 44 PM" src="https://user-images.githubusercontent.com/69889824/147834329-3de70c91-20c8-4978-b460-0e7cdaf9a16d.png">
 
 
 
